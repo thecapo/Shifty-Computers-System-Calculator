@@ -1,0 +1,24 @@
+C:\Users\cawo\Desktop\april 28\Shifty Computers System Calculator\Shifty Computers System Calculator\bin\Debug\Shifty Computers System Calculator.exe.config
+C:\Users\cawo\Desktop\april 28\Shifty Computers System Calculator\Shifty Computers System Calculator\bin\Debug\Shifty Computers System Calculator.exe
+C:\Users\cawo\Desktop\april 28\Shifty Computers System Calculator\Shifty Computers System Calculator\bin\Debug\Shifty Computers System Calculator.pdb
+C:\Users\cawo\Desktop\april 28\Shifty Computers System Calculator\Shifty Computers System Calculator\bin\Debug\Shifty Computers System Calculator.xml
+C:\Users\cawo\Desktop\april 28\Shifty Computers System Calculator\Shifty Computers System Calculator\obj\Debug\Shifty_Computers_System_Calculator.Form1.resources
+C:\Users\cawo\Desktop\april 28\Shifty Computers System Calculator\Shifty Computers System Calculator\obj\Debug\Shifty_Computers_System_Calculator.Resources.resources
+C:\Users\cawo\Desktop\april 28\Shifty Computers System Calculator\Shifty Computers System Calculator\obj\Debug\Shifty Computers System Calculator.vbproj.GenerateResource.Cache
+C:\Users\cawo\Desktop\april 28\Shifty Computers System Calculator\Shifty Computers System Calculator\obj\Debug\Shifty Computers System Calculator.exe
+C:\Users\cawo\Desktop\april 28\Shifty Computers System Calculator\Shifty Computers System Calculator\obj\Debug\Shifty Computers System Calculator.xml
+C:\Users\cawo\Desktop\april 28\Shifty Computers System Calculator\Shifty Computers System Calculator\obj\Debug\Shifty Computers System Calculator.pdb
+F:\april 28\Shifty Computers System Calculator\Shifty Computers System Calculator\bin\Debug\Shifty Computers System Calculator.exe.config
+F:\april 28\Shifty Computers System Calculator\Shifty Computers System Calculator\obj\Debug\Shifty Computers System Calculator.exe
+F:\april 28\Shifty Computers System Calculator\Shifty Computers System Calculator\obj\Debug\Shifty Computers System Calculator.xml
+F:\april 28\Shifty Computers System Calculator\Shifty Computers System Calculator\obj\Debug\Shifty Computers System Calculator.pdb
+F:\april 28\Shifty Computers System Calculator\Shifty Computers System Calculator\bin\Debug\Shifty Computers System Calculator.exe
+F:\april 28\Shifty Computers System Calculator\Shifty Computers System Calculator\bin\Debug\Shifty Computers System Calculator.pdb
+F:\april 28\Shifty Computers System Calculator\Shifty Computers System Calculator\bin\Debug\Shifty Computers System Calculator.xml
+F:\april 28\Shifty Computers System Calculator\Shifty Computers System Calculator\obj\Debug\Shifty_Computers_System_Calculator.Form1.resources
+F:\april 28\Shifty Computers System Calculator\Shifty Computers System Calculator\obj\Debug\Shifty_Computers_System_Calculator.Resources.resources
+F:\april 28\Shifty Computers System Calculator\Shifty Computers System Calculator\obj\Debug\Shifty Computers System Calculator.vbproj.GenerateResource.Cache
+D:\TERM 1\april 28\Shifty Computers System Calculator\Shifty Computers System Calculator\bin\Debug\Shifty Computers System Calculator.exe.config
+D:\TERM 1\april 28\Shifty Computers System Calculator\Shifty Computers System Calculator\obj\Debug\Shifty Computers System Calculator.exe
+D:\TERM 1\april 28\Shifty Computers System Calculator\Shifty Computers System Calculator\obj\Debug\Shifty Computers System Calculator.xml
+D:\TERM 1\april 28\Shifty Computers System Calculator\Shifty Computers System Calculator\obj\Debug\Shifty Computers System Calculator.pdb
